@@ -1,0 +1,5 @@
+# pipenv artifacts
+/Pipfile*
+
+# documentation build artifacts
+/docs/_build
