@@ -1,4 +1,5 @@
 # Aurora Dependency Injection utilities 
+[![Build Status](https://travis-ci.org/yeiniel/aurora-di.svg?branch=master)](https://travis-ci.org/yeiniel/aurora-di)
 [![Documentation Status](https://readthedocs.org/projects/aurora-di/badge/?version=latest)](https://aurora-di.readthedocs.io/en/latest/?badge=latest)
 
 ## Installing Package
