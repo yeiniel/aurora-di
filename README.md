@@ -1,4 +1,11 @@
 # Aurora Dependency Injection utilities 
+[![Documentation Status](https://readthedocs.org/projects/aurora-di/badge/?version=latest)](https://aurora-di.readthedocs.io/en/latest/?badge=latest)
+
+## Installing Package
+
+```bash
+pip install -i https://test.pypi.org/simple/ aurora-di
+```
 
 ## Setting up a Development Environment
 
