@@ -1,0 +1,16 @@
+language: python
+
+python:
+  - "3.7"
+
+before_install: "pip install pipenv"
+
+# command to install dependencies
+install:
+  - pipenv install -e .
+  - pipenv install -e ".[development]"
+
+before_script: "flake8 aurora_di.py"
+
+# command to run tests
+script: "nosetests"
