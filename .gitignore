@@ -1,0 +1,6 @@
+# development files
+/Pipfile*
+/aurora_di.egg-info
+
+# built documentation
+/docs/_build/
